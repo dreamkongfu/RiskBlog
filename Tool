@@ -1,0 +1,29 @@
+1.risk control processes:
+    a. provide accurate and detailed references on the 
+    governance mechanism (relevant information, delegation of powers, escalation), 
+    a set of rules for risk quantification, including scenario analysis, regular monitoring and contingency planning.
+    b.maintained and be up to date ,Liquidity risk functions should regularly update the control process &doc
+2.liquidity documentary framework include 
+    a.strategies
+    specific risk appetite in terms of liquidity risk 
+    its portfolio and funding set-up, firstly for the coming year and then longer term as well
+    core part: the equilibrium between long- and short-term funding determines the company's liquidity risk
+    b.policies
+    guidelines on liquidity management and control standards that apply throughout the organization.
+3.design organization structure:
+    a. independent managerial formal hierarchical reporting for risk-taking functions and the functions responsible for monitoring
+    b. a neutral service approach function, without profit targets, but rather with quality service
+    or targets linked to liquidity ratios and funding equilibrium
+    c.  appropriate level of power delegation in the funding liquidity responsibility assigned to the company's functions
+4.contingency plan follow-on step from the stress test 
+    a. risk tolerance set and the degree of securities buffer resulting
+    b. the internal procedures
+    c.CFP policy by CFP committee
+    outlines:
+      0.List of events and sources of funding
+      I. Policies and procedures to effectively manage a range of stresses
+      II.additional funding measures to obtain liquidity and offset sudden cash outfalls
+         Quantification of additional funds and maximum time required
+         steps to meet critical payments
+      III.Rules to ensure timely and clear information reporting for internal and press information,plan implementation and its results.
+      
